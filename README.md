@@ -1,24 +1,24 @@
 # package_name
+```
+Descrição. 
+O pacote package_name é usado para:
+	-Processamento: 
+		- Correspondência de histrogram 
+		- Semelhança estrutural 
+		- Redimensionar imagem 
+	- Utilidades: 
+		- Ler imagem 
+		- Salvar imagem 
+		- Imagem do enredo 
+		- Histograma de plotagem
+```
+## Instalação
 
-Description. 
-The package package_name is used to:
-	- Processing:
-		- Histrogram matching
-		- Structural similarity
-		- Resize image
-	- Utils:
-		- Read image
-		- Save image
-		- Plot image
-		- Plot histogram
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use o pip do gerenciador de pacotes para instalar o [pip](https://pip.pypa.io/en/stable/) 
 
 ```bash
 pip install image_processing
 ```
 
-## Author
+## Autor
 Rafael Apolinário
