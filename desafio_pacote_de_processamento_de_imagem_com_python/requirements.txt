@@ -1,3 +1,0 @@
-matplorlib
-numpay
-scikit-image >= 0.16.1
